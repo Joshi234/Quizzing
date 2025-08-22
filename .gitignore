@@ -1,0 +1,21 @@
+# .NET build artifacts
+Backend/bin/
+Backend/obj/
+
+# Node.js dependencies and build artifacts
+Frontend/node_modules/
+Frontend/dist/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
